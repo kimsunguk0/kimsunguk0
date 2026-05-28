@@ -1,9 +1,8 @@
-# 김성욱 (Sung-Uk Kim)
 
 **Autonomous Driving Perception Engineer** — LiDAR SLAM · 3D Detection · VLM/VLA on Edge
 
 가천대학교 컴퓨터공학과 (복수전공 스마트카융합전공) · GPA 4.13/4.5  
-㈜베이리스 자율주행개발팀 인턴 (2025.09 ~)
+㈜베이리스 자율주행개발팀 인턴 (2025.09 ~.)
 
 ---
 
